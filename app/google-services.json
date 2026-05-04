@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359951576412",
+    "project_id": "findit-822d2",
+    "storage_bucket": "findit-822d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359951576412:android:094b36dd4d42b848022599",
+        "android_client_info": {
+          "package_name": "com.example.finditapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQEmPinBZtb7_htZl4h5cNrHaeLujiX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
