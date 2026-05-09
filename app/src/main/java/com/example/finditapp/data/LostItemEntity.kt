@@ -14,7 +14,7 @@ data class LostItemEntity(
     val locationFound: String = "",
     val finderContact: String = "",
     val imageUri: String? = null,
-    val reporterId: String = "", // Links to UserEntity.uid
+    val reporterId: String = "", 
     val isClaimed: Boolean = false,
-    val type: String = "FOUND" // "LOST" or "FOUND"
+    val type: String = "FOUND" 
 )
